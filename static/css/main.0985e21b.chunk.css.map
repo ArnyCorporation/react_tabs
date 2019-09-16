@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tab.css"],"names":[],"mappings":"AAAA,QACE,WAAY,CACZ,YAAa,CACb,eAAiB,CACjB,UACF,CAEA,gBACE,UAAY,CACZ,eACF","file":"main.0985e21b.chunk.css","sourcesContent":[".button {\n  width: 300px;\n  height: 200px;\n  background: black;\n  color: white;\n}\n\n.button--active {\n  color: white;\n  background: pink;\n}\n"]}
